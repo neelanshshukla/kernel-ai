@@ -1,0 +1,3 @@
+# Libraries needed to run Kernel
+groq
+python-dotenv
